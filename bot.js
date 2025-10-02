@@ -1,7 +1,7 @@
 const { Telegraf } = require('telegraf');
 
 // ⚡ PASTE YOUR BOT TOKEN HERE ⚡
-const BOT_TOKEN = 'YOUR_ACTUAL_BOT_TOKEN_HERE';
+const BOT_TOKEN = '7701970165:AAFmPpYOJ92MT033UoJLmxfQX7rIe703k6E';
 
 // Initialize bot
 const bot = new Telegraf(BOT_TOKEN);
